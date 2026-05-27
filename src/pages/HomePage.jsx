@@ -139,7 +139,7 @@ export default function HomePage() {
           <div className="how-step">
             <div className="how-step-number">1</div>
             <div className="how-step-image-wrap">
-              <img src="/images/bikeChecking.jpg" alt="ตรวจสอบจักรยานก่อนบริจาค" onError={(e) => { e.target.src = 'https://via.placeholder.com/220?text=Step+1'; }} />
+              <img src="images/bikeChecking.jpg" alt="ตรวจสอบจักรยานก่อนบริจาค" onError={(e) => { e.target.src = 'https://via.placeholder.com/220?text=Step+1'; }} />
             </div>
             <h3>บริจาคจักรยาน</h3>
             <p>ถ่ายรูปและกรอกรายละเอียดจักรยานที่ต้องการบริจาค เราจะตรวจสอบและซ่อมแซมให้พร้อมใช้งาน</p>
@@ -147,7 +147,7 @@ export default function HomePage() {
           <div className="how-step">
             <div className="how-step-number">2</div>
             <div className="how-step-image-wrap">
-              <img src="/images/fixingBike.png" alt="ซ่อมแซมจักรยาน" onError={(e) => { e.target.src = 'https://via.placeholder.com/220?text=Step+2'; }} />
+              <img src="images/fixingBike.png" alt="ซ่อมแซมจักรยาน" onError={(e) => { e.target.src = 'https://via.placeholder.com/220?text=Step+2'; }} />
             </div>
             <h3>ซ่อมแซมและตรวจสอบ</h3>
             <p>ทีมงานจะตรวจสอบสภาพและซ่อมแซมจักรยานให้อยู่ในสภาพพร้อมใช้งาน</p>
@@ -155,7 +155,7 @@ export default function HomePage() {
           <div className="how-step">
             <div className="how-step-number">3</div>
             <div className="how-step-image-wrap">
-              <img src="/images/wantBike.jpg" alt="ขอรับจักรยาน" onError={(e) => { e.target.src = 'https://via.placeholder.com/220?text=Step+3'; }} />
+              <img src="images/wantBike.jpg" alt="ขอรับจักรยาน" onError={(e) => { e.target.src = 'https://via.placeholder.com/220?text=Step+3'; }} />
             </div>
             <h3>กระจายให้ผู้ที่ต้องการ</h3>
             <p>ผู้ที่ต้องการสามารถเลือกและขอรับจักรยานผ่านระบบได้ง่ายๆ</p>
